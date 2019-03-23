@@ -6,9 +6,9 @@
 
 - Sentiment Analysis with Stanford Sentiment Treebank (SST) Dataset -: [[SST](https://nlp.stanford.edu/sentiment/code.html)]
 
-## VQG
+## Paraphase Question Generation (PQG)
 ###### Latest papers: 
 
  - Learning Semantic Sentence Embeddings using Pair-wise Discriminator. [[Paper](http://aclweb.org/anthology/C18-1230)]. [[Code](https://github.com/badripatro/PQG/)] [[Project Link](https://badripatro.github.io/Question-Paraphrases/)]
 
-![Result](fig/intro.png) 
+![Result](fig/pair_dis_intro.png) 
